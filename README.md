@@ -9,3 +9,5 @@
   - 2024/08/29 : 책 목차 훑기, git repository 작성
 - 2주차
   - 2024/09/06 : Greedy 알고리즘 관련 학습 (Chapter3, Chapter11)
+- 3주차
+  - 2024/09/13 : Implementation 알고리즘 관련 학습 (Chapter4, Chapter12)
