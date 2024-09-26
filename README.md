@@ -13,3 +13,5 @@
   - 2024/09/13 : Implementation 학습 (Chapter4, Chapter12)
 - 4주차
   - 2024/09/20 : DFS/BFS 학습 (Chapter5, Chapter13)
+- 5주차
+  - 2024/09/26 :  Binary Search/Dynamic Programming 학습 (Chapter7, Chapter8, Chapter16)
